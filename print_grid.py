@@ -1,3 +1,6 @@
+#CS175
+#Maggie Volker
+
 #print_grid.py
 
 pattern1 = "+--+--+--+\n|  |  |  |"
