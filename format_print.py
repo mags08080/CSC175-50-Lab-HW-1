@@ -1,3 +1,6 @@
+#CS175
+#Maggie Volker
+
 #format_print.py
 num1 = 1.8
 num2 = 12.9
